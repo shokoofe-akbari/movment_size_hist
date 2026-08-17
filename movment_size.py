@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-file_path = r"D:\PhD thesis\SimulationSV\cmake-build-debug\builds"
-time = r"\2024-06-05_18-46-08"
+file_path = r"..\.\"
+time = r"\2024-06-05_18-46-0*"
 
 
 

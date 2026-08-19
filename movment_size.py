@@ -14,9 +14,7 @@ file = r"\Vesicles_movement.xyz"
 #file = "\total_force_vesicle.txt"
 #file = "\total_force_protein.txt"
 #file = "\SynapsinI_movement.xyz"
-#file = "\electro_force_vesicle_protein.txt"
-#file = "\electro_force_protein_vesicle.txt"
-#file = "\electr_force_protein_protein.txt"
+
 file_path = file_path + time + file
 
 particle_movements = []
